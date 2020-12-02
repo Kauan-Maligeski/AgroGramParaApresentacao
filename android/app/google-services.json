@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323563602954",
+    "firebase_url": "https://agrogram-e8794.firebaseio.com",
+    "project_id": "agrogram-e8794",
+    "storage_bucket": "agrogram-e8794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323563602954:android:9aae6e71263bd639be8bf3",
+        "android_client_info": {
+          "package_name": "com.example.appTeste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323563602954-r7emabacjkga3dq8hr2erfdkpv75e6a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appTeste",
+            "certificate_hash": "7f3bdcee61d971d9d836b9ed85690172d6352b42"
+          }
+        },
+        {
+          "client_id": "323563602954-igg5li4gkgh1gqs769ftv9os1ujpmmu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyL6o_IOABPPSgpLHCN1ZSJFyw5W8OK2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323563602954-igg5li4gkgh1gqs769ftv9os1ujpmmu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
